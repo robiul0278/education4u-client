@@ -1,0 +1,25 @@
+.active-2{
+    background-color: #07080a;
+    color: #fff;
+}
+
+.active {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+
+.btn-bg{
+    background-color: #FE5320;
+    border: none;
+    color: #fff;
+}
+.btn-bg:hover{
+    background-color: #c04d2a;
+    color: #fff;
+}
+
+
+.title-logo{
+    color: #FE5320;
+}
